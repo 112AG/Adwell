@@ -9,7 +9,6 @@ function Filter({ data = [], onFilter }) {
       return;
     }
 
-    // Apply filter when query changes
     const filtered = query.trim()
       ? data.filter(diary =>
           diary.dairyName?.toLowerCase().includes(query.toLowerCase())
@@ -20,7 +19,7 @@ function Filter({ data = [], onFilter }) {
   }, [query, data, onFilter]);
 
   return (
-    <div className="mb-4">
+    <div className="my-4 mx-[132px]">
       <input
         type="text"
         value={query}

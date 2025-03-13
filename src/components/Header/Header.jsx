@@ -16,8 +16,8 @@ function Header() {
   }
 
   return (
-    <div className="py-5 px-12 bg-gray-100 flex justify-between items-center w-full">
-      <div className="h-[38px] w-[28px] flex">
+    <div className="py-1.5 sm:px-8 px-4 bg-gray-100 flex justify-between items-center w-full">
+      <div className="h-[52px] w-[42px] flex">
         <img className="h-full w-full" src={Logo} alt="Logo" />
       </div>
 
@@ -113,7 +113,7 @@ function Header() {
       <div className="flex sm:hidden gap-4 items-center">
         <i
           onClick={handleSearch}
-          className="ri-search-line cursor-pointer text-xl hover:text-red-600"
+          className="ri-search-line cursor-pointer text-2xl font-semibold hover:text-red-600"
         ></i>
         <div
           className={`fixed top-0 left-0 w-full h-full bg-white bg-opacity-95 flex justify-center z-20 transition-transform duration-600 ease-in-out ${
@@ -139,7 +139,7 @@ function Header() {
 
         <i
           onClick={handleMenu}
-          className="ri-menu-line cursor-pointer hover:text-red-600 text-xl inline sm:hidden"
+          className="ri-menu-line font-semibold cursor-pointer hover:text-red-600 text-2xl inline sm:hidden"
         ></i>
       </div>
 
@@ -219,18 +219,3 @@ function Header() {
 }
 
 export default Header;
-
-{
-  /* <i onClick={handleSearch} className="ri-menu-line cursor-pointer hover:text-red-600 text-xl inline sm:hidden"></i>
-
-        {search ? <div className={`absolute right-0 text-center top-0 ${search ?  'w-[50vw]': 'w-0'}`}>
-          <i onClick={handleSearch} className="ri-close-large-fill cursor-pointer text-black absolute right-4 top-4 font-bold text-2xl"></i>
-        <ul className=' bg-gray-200 py-18 h-screen w-[50vw] flex flex-col gap-5 whitespace-nowrap'>
-          <li><NavLink to='/' className={({ isActive }) => (isActive ? "active-link" : "nav-link")}>Home</NavLink></li>
-          <li><NavLink to='/shop' className={({ isActive }) => (isActive ? "active-link" : "nav-link")}>Shop</NavLink></li>
-          <li><NavLink to='/offers' className={({ isActive }) => (isActive ? "active-link" : "nav-link")}>Offers</NavLink></li>
-          <li><NavLink to='/personalize' className={({ isActive }) => (isActive ? "active-link" : "nav-link")}>Personalize</NavLink></li>
-          <li><NavLink to='trackorder' className={({ isActive }) => (isActive ? "active-link" : "nav-link")}>Track Order</NavLink></li>
-        </ul>
-        </div> : null} */
-}
