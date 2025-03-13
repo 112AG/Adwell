@@ -1,0 +1,1186 @@
+{
+    "EDUCATIONAL": {
+        "4 Subject Notebooks": [
+            {
+                "dairyName": "Classic 503",
+                "price": "301",
+                "description": "A 4-subject notebook with high-quality paper. This notebook is designed for durability and style.",
+                "id": "EDU001",
+                "cover": "Hard",
+                "inner": "Ruled",
+                "numberOfPages": "200",
+                "paper": "70 GSM",
+                "size": "A4",
+                "otherfeatures": "Spiral binding, Perforated pages",
+                "coverDesigns": "Floral",
+                "image": "https://m.media-amazon.com/images/I/81HhyI7ULaL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Professional 869",
+                "price": "372",
+                "description": "Premium 4-subject notebook for students and professionals. This notebook is designed for durability and style.",
+                "id": "EDU002",
+                "cover": "Soft",
+                "inner": "Unruled",
+                "numberOfPages": "180",
+                "paper": "75 GSM",
+                "size": "A5",
+                "otherfeatures": "Durable cover, Index tabs",
+                "coverDesigns": "Vintage",
+                "image": "https://m.media-amazon.com/images/I/81FCXir4T4L._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "5 Subject Notebook - Ruled": [
+            {
+                "dairyName": "Classic 867",
+                "price": "332",
+                "description": "A 4-subject notebook with high-quality paper. This notebook is designed for durability and style.",
+                "id": "EDU001",
+                "cover": "Hard",
+                "inner": "Ruled",
+                "numberOfPages": "200",
+                "paper": "70 GSM",
+                "size": "A4",
+                "otherfeatures": "Spiral binding, Perforated pages",
+                "coverDesigns": "Geometric",
+                "image": "https://m.media-amazon.com/images/I/817nCTPkQiL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Professional 383",
+                "price": "353",
+                "description": "Premium 4-subject notebook for students and professionals. This notebook is designed for durability and style.",
+                "id": "EDU002",
+                "cover": "Soft",
+                "inner": "Unruled",
+                "numberOfPages": "180",
+                "paper": "75 GSM",
+                "size": "A5",
+                "otherfeatures": "Durable cover, Index tabs",
+                "coverDesigns": "Vintage",
+                "image": "https://m.media-amazon.com/images/I/81HltUN+7iL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "5 Subject Notebook - UnRuled": [
+            {
+                "dairyName": "Classic 628",
+                "price": "299",
+                "description": "A 4-subject notebook with high-quality paper. This notebook is designed for durability and style.",
+                "id": "EDU001",
+                "cover": "Hard",
+                "inner": "Ruled",
+                "numberOfPages": "200",
+                "paper": "70 GSM",
+                "size": "A4",
+                "otherfeatures": "Spiral binding, Perforated pages",
+                "coverDesigns": "Abstract",
+                "image": "https://m.media-amazon.com/images/I/71cHpZZsXVL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Professional 235",
+                "price": "293",
+                "description": "Premium 4-subject notebook for students and professionals. This notebook is designed for durability and style.",
+                "id": "EDU002",
+                "cover": "Soft",
+                "inner": "Unruled",
+                "numberOfPages": "180",
+                "paper": "75 GSM",
+                "size": "A5",
+                "otherfeatures": "Durable cover, Index tabs",
+                "coverDesigns": "Abstract",
+                "image": "https://m.media-amazon.com/images/I/61-GxV2ymeL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "6 Subject Notebooks": [
+            {
+                "dairyName": "Classic 849",
+                "price": "270",
+                "description": "A 4-subject notebook with high-quality paper. This notebook is designed for durability and style.",
+                "id": "EDU001",
+                "cover": "Hard",
+                "inner": "Ruled",
+                "numberOfPages": "200",
+                "paper": "70 GSM",
+                "size": "A4",
+                "otherfeatures": "Spiral binding, Perforated pages",
+                "coverDesigns": "Abstract",
+                "image": "https://m.media-amazon.com/images/I/61AlLE+1-CL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Professional 946",
+                "price": "321",
+                "description": "Premium 4-subject notebook for students and professionals. This notebook is designed for durability and style.",
+                "id": "EDU002",
+                "cover": "Soft",
+                "inner": "Unruled",
+                "numberOfPages": "180",
+                "paper": "75 GSM",
+                "size": "A5",
+                "otherfeatures": "Durable cover, Index tabs",
+                "coverDesigns": "Minimal",
+                "image": "https://m.media-amazon.com/images/I/51KojOsVabL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ]
+    },
+    "BUSINESS": {
+        "Business Organizer": [
+            {
+                "dairyName": "Executive 769",
+                "price": "527",
+                "description": "A high-end organizer for professionals. This notebook is designed for durability and style.",
+                "id": "BUS001",
+                "cover": "Leather",
+                "inner": "Ruled",
+                "numberOfPages": "150",
+                "paper": "90 GSM",
+                "size": "A5",
+                "otherfeatures": "Pen holder, Inner pockets",
+                "coverDesigns": "Modern",
+                "image": "https://m.media-amazon.com/images/I/71u4I00hv-L._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Smart 120",
+                "price": "543",
+                "description": "A well-structured business planner for meetings and notes. This notebook is designed for durability and style.",
+                "id": "BUS002",
+                "cover": "Hard",
+                "inner": "Ruled + Dotted",
+                "numberOfPages": "160",
+                "paper": "85 GSM",
+                "size": "B5",
+                "otherfeatures": "Index tabs, Monthly calendar",
+                "coverDesigns": "Modern",
+                "image": "https://m.media-amazon.com/images/I/71lDoPQHPdL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Business Planner": [
+            {
+                "dairyName": "Executive 453",
+                "price": "564",
+                "description": "A high-end organizer for professionals. This notebook is designed for durability and style.",
+                "id": "BUS001",
+                "cover": "Leather",
+                "inner": "Ruled",
+                "numberOfPages": "150",
+                "paper": "90 GSM",
+                "size": "A5",
+                "otherfeatures": "Pen holder, Inner pockets",
+                "coverDesigns": "Modern",
+                "image": "https://m.media-amazon.com/images/I/61LxPiqlycL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Smart 717",
+                "price": "570",
+                "description": "A well-structured business planner for meetings and notes. This notebook is designed for durability and style.",
+                "id": "BUS002",
+                "cover": "Hard",
+                "inner": "Ruled + Dotted",
+                "numberOfPages": "160",
+                "paper": "85 GSM",
+                "size": "B5",
+                "otherfeatures": "Index tabs, Monthly calendar",
+                "coverDesigns": "Modern",
+                "image": "https://m.media-amazon.com/images/I/61INSBn3IdL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Any Year Planer": [
+            {
+                "dairyName": "Executive 202",
+                "price": "495",
+                "description": "A high-end organizer for professionals. This notebook is designed for durability and style.",
+                "id": "BUS001",
+                "cover": "Leather",
+                "inner": "Ruled",
+                "numberOfPages": "150",
+                "paper": "90 GSM",
+                "size": "A5",
+                "otherfeatures": "Pen holder, Inner pockets",
+                "coverDesigns": "Modern",
+                "image": "https://m.media-amazon.com/images/I/61eYApdaTDL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Smart 629",
+                "price": "538",
+                "description": "A well-structured business planner for meetings and notes. This notebook is designed for durability and style.",
+                "id": "BUS002",
+                "cover": "Hard",
+                "inner": "Ruled + Dotted",
+                "numberOfPages": "160",
+                "paper": "85 GSM",
+                "size": "B5",
+                "otherfeatures": "Index tabs, Monthly calendar",
+                "coverDesigns": "Modern",
+                "image": "https://m.media-amazon.com/images/I/81tLTzp670L._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Pocket Planner": [
+            {
+                "dairyName": "Executive 143",
+                "price": "555",
+                "description": "A high-end organizer for professionals. This notebook is designed for durability and style.",
+                "id": "BUS001",
+                "cover": "Leather",
+                "inner": "Ruled",
+                "numberOfPages": "150",
+                "paper": "90 GSM",
+                "size": "A5",
+                "otherfeatures": "Pen holder, Inner pockets",
+                "coverDesigns": "Minimal",
+                "image": "https://m.media-amazon.com/images/I/81rfi3EhdSL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Smart 140",
+                "price": "557",
+                "description": "A well-structured business planner for meetings and notes. This notebook is designed for durability and style.",
+                "id": "BUS002",
+                "cover": "Hard",
+                "inner": "Ruled + Dotted",
+                "numberOfPages": "160",
+                "paper": "85 GSM",
+                "size": "B5",
+                "otherfeatures": "Index tabs, Monthly calendar",
+                "coverDesigns": "Abstract",
+                "image": "https://m.media-amazon.com/images/I/81wvTxsQ4GL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Conference Folder": [
+            {
+                "dairyName": "Executive 268",
+                "price": "516",
+                "description": "A high-end organizer for professionals. This notebook is designed for durability and style.",
+                "id": "BUS001",
+                "cover": "Leather",
+                "inner": "Ruled",
+                "numberOfPages": "150",
+                "paper": "90 GSM",
+                "size": "A5",
+                "otherfeatures": "Pen holder, Inner pockets",
+                "coverDesigns": "Vintage",
+                "image": "https://m.media-amazon.com/images/I/91zQeymgpsL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Smart 718",
+                "price": "502",
+                "description": "A well-structured business planner for meetings and notes. This notebook is designed for durability and style.",
+                "id": "BUS002",
+                "cover": "Hard",
+                "inner": "Ruled + Dotted",
+                "numberOfPages": "160",
+                "paper": "85 GSM",
+                "size": "B5",
+                "otherfeatures": "Index tabs, Monthly calendar",
+                "coverDesigns": "Floral",
+                "image": "https://m.media-amazon.com/images/I/71Uef-+acvL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Visitor Book": [
+            {
+                "dairyName": "Executive 232",
+                "price": "544",
+                "description": "A high-end organizer for professionals. This notebook is designed for durability and style.",
+                "id": "BUS001",
+                "cover": "Leather",
+                "inner": "Ruled",
+                "numberOfPages": "150",
+                "paper": "90 GSM",
+                "size": "A5",
+                "otherfeatures": "Pen holder, Inner pockets",
+                "coverDesigns": "Geometric",
+                "image": "https://m.media-amazon.com/images/I/71QG+uxFq2L._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Smart 861",
+                "price": "591",
+                "description": "A well-structured business planner for meetings and notes. This notebook is designed for durability and style.",
+                "id": "BUS002",
+                "cover": "Hard",
+                "inner": "Ruled + Dotted",
+                "numberOfPages": "160",
+                "paper": "85 GSM",
+                "size": "B5",
+                "otherfeatures": "Index tabs, Monthly calendar",
+                "coverDesigns": "Minimal",
+                "image": "https://m.media-amazon.com/images/I/81kO+DjhqaL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Directory": [
+            {
+                "dairyName": "Executive 267",
+                "price": "552",
+                "description": "A high-end organizer for professionals. This notebook is designed for durability and style.",
+                "id": "BUS001",
+                "cover": "Leather",
+                "inner": "Ruled",
+                "numberOfPages": "150",
+                "paper": "90 GSM",
+                "size": "A5",
+                "otherfeatures": "Pen holder, Inner pockets",
+                "coverDesigns": "Modern",
+                "image": "https://m.media-amazon.com/images/I/51hw-V8dYgL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Smart 150",
+                "price": "488",
+                "description": "A well-structured business planner for meetings and notes. This notebook is designed for durability and style.",
+                "id": "BUS002",
+                "cover": "Hard",
+                "inner": "Ruled + Dotted",
+                "numberOfPages": "160",
+                "paper": "85 GSM",
+                "size": "B5",
+                "otherfeatures": "Index tabs, Monthly calendar",
+                "coverDesigns": "Modern",
+                "image": "https://m.media-amazon.com/images/I/41VooBfJb4L._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ]
+    },
+    "WRITING PADS": {
+        "3 in 1 Pad": [
+            {
+                "dairyName": "Multipurpose 494",
+                "price": "188",
+                "description": "A versatile pad for writing, sketching, and notes. This notebook is designed for durability and style.",
+                "id": "WP001",
+                "cover": "Soft",
+                "inner": "Blank + Ruled + Grid",
+                "numberOfPages": "120",
+                "paper": "70 GSM",
+                "size": "A5",
+                "otherfeatures": "Tearable pages, Lightweight",
+                "coverDesigns": "Modern",
+                "image": "https://m.media-amazon.com/images/I/71YpcUthwPL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Creative 810",
+                "price": "257",
+                "description": "A creative pad with three writing styles for flexible use. This notebook is designed for durability and style.",
+                "id": "WP002",
+                "cover": "Hard",
+                "inner": "Ruled + Dotted + Blank",
+                "numberOfPages": "150",
+                "paper": "80 GSM",
+                "size": "B5",
+                "otherfeatures": "Water-resistant cover, Elastic band",
+                "coverDesigns": "Modern",
+                "image": "https://m.media-amazon.com/images/I/71RGpx-MUmL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Spiral Pad": [
+            {
+                "dairyName": "Multipurpose 525",
+                "price": "215",
+                "description": "A versatile pad for writing, sketching, and notes. This notebook is designed for durability and style.",
+                "id": "WP001",
+                "cover": "Soft",
+                "inner": "Blank + Ruled + Grid",
+                "numberOfPages": "120",
+                "paper": "70 GSM",
+                "size": "A5",
+                "otherfeatures": "Tearable pages, Lightweight",
+                "coverDesigns": "Vintage",
+                "image": "https://m.media-amazon.com/images/I/71y06TPLimL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Creative 302",
+                "price": "243",
+                "description": "A creative pad with three writing styles for flexible use. This notebook is designed for durability and style.",
+                "id": "WP002",
+                "cover": "Hard",
+                "inner": "Ruled + Dotted + Blank",
+                "numberOfPages": "150",
+                "paper": "80 GSM",
+                "size": "B5",
+                "otherfeatures": "Water-resistant cover, Elastic band",
+                "coverDesigns": "Floral",
+                "image": "https://m.media-amazon.com/images/I/71hP5+T0ksL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Cubic Pad": [
+            {
+                "dairyName": "Multipurpose 509",
+                "price": "228",
+                "description": "A versatile pad for writing, sketching, and notes. This notebook is designed for durability and style.",
+                "id": "WP001",
+                "cover": "Soft",
+                "inner": "Blank + Ruled + Grid",
+                "numberOfPages": "120",
+                "paper": "70 GSM",
+                "size": "A5",
+                "otherfeatures": "Tearable pages, Lightweight",
+                "coverDesigns": "Geometric",
+                "image": "https://m.media-amazon.com/images/I/51cbe4zr2EL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Creative 800",
+                "price": "260",
+                "description": "A creative pad with three writing styles for flexible use. This notebook is designed for durability and style.",
+                "id": "WP002",
+                "cover": "Hard",
+                "inner": "Ruled + Dotted + Blank",
+                "numberOfPages": "150",
+                "paper": "80 GSM",
+                "size": "B5",
+                "otherfeatures": "Water-resistant cover, Elastic band",
+                "coverDesigns": "Abstract",
+                "image": "https://m.media-amazon.com/images/I/81HZ4rCrm6L._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Pocket Pad": [
+            {
+                "dairyName": "Multipurpose 921",
+                "price": "220",
+                "description": "A versatile pad for writing, sketching, and notes. This notebook is designed for durability and style.",
+                "id": "WP001",
+                "cover": "Soft",
+                "inner": "Blank + Ruled + Grid",
+                "numberOfPages": "120",
+                "paper": "70 GSM",
+                "size": "A5",
+                "otherfeatures": "Tearable pages, Lightweight",
+                "coverDesigns": "Geometric",
+                "image": "https://m.media-amazon.com/images/I/51HMqG2KuTL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Creative 310",
+                "price": "232",
+                "description": "A creative pad with three writing styles for flexible use. This notebook is designed for durability and style.",
+                "id": "WP002",
+                "cover": "Hard",
+                "inner": "Ruled + Dotted + Blank",
+                "numberOfPages": "150",
+                "paper": "80 GSM",
+                "size": "B5",
+                "otherfeatures": "Water-resistant cover, Elastic band",
+                "coverDesigns": "Minimal",
+                "image": "https://m.media-amazon.com/images/I/51hw-V8dYgL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Side Open Pad": [
+            {
+                "dairyName": "Multipurpose 237",
+                "price": "184",
+                "description": "A versatile pad for writing, sketching, and notes. This notebook is designed for durability and style.",
+                "id": "WP001",
+                "cover": "Soft",
+                "inner": "Blank + Ruled + Grid",
+                "numberOfPages": "120",
+                "paper": "70 GSM",
+                "size": "A5",
+                "otherfeatures": "Tearable pages, Lightweight",
+                "coverDesigns": "Minimal",
+                "image": "https://m.media-amazon.com/images/I/817AUS1yZCL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Creative 146",
+                "price": "230",
+                "description": "A creative pad with three writing styles for flexible use. This notebook is designed for durability and style.",
+                "id": "WP002",
+                "cover": "Hard",
+                "inner": "Ruled + Dotted + Blank",
+                "numberOfPages": "150",
+                "paper": "80 GSM",
+                "size": "B5",
+                "otherfeatures": "Water-resistant cover, Elastic band",
+                "coverDesigns": "Modern",
+                "image": "https://m.media-amazon.com/images/I/81nBvy9MgtL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Top Open Pad": [
+            {
+                "dairyName": "Multipurpose 910",
+                "price": "222",
+                "description": "A versatile pad for writing, sketching, and notes. This notebook is designed for durability and style.",
+                "id": "WP001",
+                "cover": "Soft",
+                "inner": "Blank + Ruled + Grid",
+                "numberOfPages": "120",
+                "paper": "70 GSM",
+                "size": "A5",
+                "otherfeatures": "Tearable pages, Lightweight",
+                "coverDesigns": "Vintage",
+                "image": "https://m.media-amazon.com/images/I/81nitEKrP2L._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Creative 887",
+                "price": "255",
+                "description": "A creative pad with three writing styles for flexible use. This notebook is designed for durability and style.",
+                "id": "WP002",
+                "cover": "Hard",
+                "inner": "Ruled + Dotted + Blank",
+                "numberOfPages": "150",
+                "paper": "80 GSM",
+                "size": "B5",
+                "otherfeatures": "Water-resistant cover, Elastic band",
+                "coverDesigns": "Abstract",
+                "image": "https://m.media-amazon.com/images/I/91I6IIOdI4L._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Executive Pad": [
+            {
+                "dairyName": "Multipurpose 802",
+                "price": "233",
+                "description": "A versatile pad for writing, sketching, and notes. This notebook is designed for durability and style.",
+                "id": "WP001",
+                "cover": "Soft",
+                "inner": "Blank + Ruled + Grid",
+                "numberOfPages": "120",
+                "paper": "70 GSM",
+                "size": "A5",
+                "otherfeatures": "Tearable pages, Lightweight",
+                "coverDesigns": "Abstract",
+                "image": "https://m.media-amazon.com/images/I/81hXKonxX9L._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Creative 257",
+                "price": "219",
+                "description": "A creative pad with three writing styles for flexible use. This notebook is designed for durability and style.",
+                "id": "WP002",
+                "cover": "Hard",
+                "inner": "Ruled + Dotted + Blank",
+                "numberOfPages": "150",
+                "paper": "80 GSM",
+                "size": "B5",
+                "otherfeatures": "Water-resistant cover, Elastic band",
+                "coverDesigns": "Geometric",
+                "image": "https://m.media-amazon.com/images/I/71MDgO0b0FL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Neon Block": [
+            {
+                "dairyName": "Multipurpose 617",
+                "price": "210",
+                "description": "A versatile pad for writing, sketching, and notes. This notebook is designed for durability and style.",
+                "id": "WP001",
+                "cover": "Soft",
+                "inner": "Blank + Ruled + Grid",
+                "numberOfPages": "120",
+                "paper": "70 GSM",
+                "size": "A5",
+                "otherfeatures": "Tearable pages, Lightweight",
+                "coverDesigns": "Abstract",
+                "image": "https://m.media-amazon.com/images/I/81ZBi2gmSXL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Creative 666",
+                "price": "201",
+                "description": "A creative pad with three writing styles for flexible use. This notebook is designed for durability and style.",
+                "id": "WP002",
+                "cover": "Hard",
+                "inner": "Ruled + Dotted + Blank",
+                "numberOfPages": "150",
+                "paper": "80 GSM",
+                "size": "B5",
+                "otherfeatures": "Water-resistant cover, Elastic band",
+                "coverDesigns": "Modern",
+                "image": "https://m.media-amazon.com/images/I/81avjKuFFuL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ]
+    },
+    "SOCIAL": {
+        "Sketch Pad": [
+            {
+                "dairyName": "Artist 179",
+                "price": "470",
+                "description": "Perfect for artists and designers. This notebook is designed for durability and style.",
+                "id": "SOC001",
+                "cover": "Hard",
+                "inner": "Blank",
+                "numberOfPages": "50",
+                "paper": "120 GSM",
+                "size": "A3",
+                "otherfeatures": "Acid-free paper, Spiral bound",
+                "coverDesigns": "Modern",
+                "image": "https://m.media-amazon.com/images/I/711+v+b17EL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Creative 977",
+                "price": "430",
+                "description": "A premium sketch pad for creative professionals. This notebook is designed for durability and style.",
+                "id": "SOC002",
+                "cover": "Soft",
+                "inner": "Blank",
+                "numberOfPages": "60",
+                "paper": "130 GSM",
+                "size": "A4",
+                "otherfeatures": "Tearable sheets, Sturdy backing",
+                "coverDesigns": "Abstract",
+                "image": "https://m.media-amazon.com/images/I/81v2hm+UxBL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Original Canvas Board": [
+            {
+                "dairyName": "Artist 941",
+                "price": "370",
+                "description": "Perfect for artists and designers. This notebook is designed for durability and style.",
+                "id": "SOC001",
+                "cover": "Hard",
+                "inner": "Blank",
+                "numberOfPages": "50",
+                "paper": "120 GSM",
+                "size": "A3",
+                "otherfeatures": "Acid-free paper, Spiral bound",
+                "coverDesigns": "Abstract",
+                "image": "https://m.media-amazon.com/images/I/51k4aOceJLL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Creative 971",
+                "price": "437",
+                "description": "A premium sketch pad for creative professionals. This notebook is designed for durability and style.",
+                "id": "SOC002",
+                "cover": "Soft",
+                "inner": "Blank",
+                "numberOfPages": "60",
+                "paper": "130 GSM",
+                "size": "A4",
+                "otherfeatures": "Tearable sheets, Sturdy backing",
+                "coverDesigns": "Vintage",
+                "image": "https://m.media-amazon.com/images/I/61KsP1UCgGL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Gift Wrapper & Placement": [
+            {
+                "dairyName": "Artist 902",
+                "price": "429",
+                "description": "Perfect for artists and designers. This notebook is designed for durability and style.",
+                "id": "SOC001",
+                "cover": "Hard",
+                "inner": "Blank",
+                "numberOfPages": "50",
+                "paper": "120 GSM",
+                "size": "A3",
+                "otherfeatures": "Acid-free paper, Spiral bound",
+                "coverDesigns": "Vintage",
+                "image": "https://m.media-amazon.com/images/I/91aJuNGsxYL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Creative 181",
+                "price": "422",
+                "description": "A premium sketch pad for creative professionals. This notebook is designed for durability and style.",
+                "id": "SOC002",
+                "cover": "Soft",
+                "inner": "Blank",
+                "numberOfPages": "60",
+                "paper": "130 GSM",
+                "size": "A4",
+                "otherfeatures": "Tearable sheets, Sturdy backing",
+                "coverDesigns": "Modern",
+                "image": "https://m.media-amazon.com/images/I/81HhyI7ULaL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Rustic Kraft": [
+            {
+                "dairyName": "Artist 633",
+                "price": "455",
+                "description": "Perfect for artists and designers. This notebook is designed for durability and style.",
+                "id": "SOC001",
+                "cover": "Hard",
+                "inner": "Blank",
+                "numberOfPages": "50",
+                "paper": "120 GSM",
+                "size": "A3",
+                "otherfeatures": "Acid-free paper, Spiral bound",
+                "coverDesigns": "Geometric",
+                "image": "https://m.media-amazon.com/images/I/71ONykwCIVL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Creative 403",
+                "price": "473",
+                "description": "A premium sketch pad for creative professionals. This notebook is designed for durability and style.",
+                "id": "SOC002",
+                "cover": "Soft",
+                "inner": "Blank",
+                "numberOfPages": "60",
+                "paper": "130 GSM",
+                "size": "A4",
+                "otherfeatures": "Tearable sheets, Sturdy backing",
+                "coverDesigns": "Minimal",
+                "image": "https://m.media-amazon.com/images/I/81zRUikMEWL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Journals": [
+            {
+                "dairyName": "Artist 143",
+                "price": "449",
+                "description": "Perfect for artists and designers. This notebook is designed for durability and style.",
+                "id": "SOC001",
+                "cover": "Hard",
+                "inner": "Blank",
+                "numberOfPages": "50",
+                "paper": "120 GSM",
+                "size": "A3",
+                "otherfeatures": "Acid-free paper, Spiral bound",
+                "coverDesigns": "Geometric",
+                "image": "https://m.media-amazon.com/images/I/616mh-w+76L._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Creative 350",
+                "price": "429",
+                "description": "A premium sketch pad for creative professionals. This notebook is designed for durability and style.",
+                "id": "SOC002",
+                "cover": "Soft",
+                "inner": "Blank",
+                "numberOfPages": "60",
+                "paper": "130 GSM",
+                "size": "A4",
+                "otherfeatures": "Tearable sheets, Sturdy backing",
+                "coverDesigns": "Floral",
+                "image": "https://m.media-amazon.com/images/I/61L+l0azBaL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Lockable Notebook": [
+            {
+                "dairyName": "Artist 726",
+                "price": "385",
+                "description": "Perfect for artists and designers. This notebook is designed for durability and style.",
+                "id": "SOC001",
+                "cover": "Hard",
+                "inner": "Blank",
+                "numberOfPages": "50",
+                "paper": "120 GSM",
+                "size": "A3",
+                "otherfeatures": "Acid-free paper, Spiral bound",
+                "coverDesigns": "Minimal",
+                "image": "https://m.media-amazon.com/images/I/61oIoneTJ1L._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Creative 988",
+                "price": "476",
+                "description": "A premium sketch pad for creative professionals. This notebook is designed for durability and style.",
+                "id": "SOC002",
+                "cover": "Soft",
+                "inner": "Blank",
+                "numberOfPages": "60",
+                "paper": "130 GSM",
+                "size": "A4",
+                "otherfeatures": "Tearable sheets, Sturdy backing",
+                "coverDesigns": "Abstract",
+                "image": "https://m.media-amazon.com/images/I/81XWF9TgfML._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ]
+    },
+    "HARD COVER": {
+        "Oxford Notebook": [
+            {
+                "dairyName": "Oxford 562",
+                "price": "266",
+                "description": "A classic hardcover notebook for professionals. This notebook is designed for durability and style.",
+                "id": "HC001",
+                "cover": "Hard",
+                "inner": "Ruled",
+                "numberOfPages": "180",
+                "paper": "85 GSM",
+                "size": "A5",
+                "otherfeatures": "Ribbon bookmark, Elastic band",
+                "coverDesigns": "Geometric",
+                "image": "https://m.media-amazon.com/images/I/718yo5nAs-L._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Oxford 771",
+                "price": "337",
+                "description": "A premium version of the Oxford Notebook. This notebook is designed for durability and style.",
+                "id": "HC002",
+                "cover": "Hard",
+                "inner": "Ruled + Dotted",
+                "numberOfPages": "200",
+                "paper": "90 GSM",
+                "size": "B5",
+                "otherfeatures": "Pen loop, Numbered pages",
+                "coverDesigns": "Abstract",
+                "image": "https://m.media-amazon.com/images/I/51gCwiF0LYL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Hard Cover Notebook": [
+            {
+                "dairyName": "Oxford 554",
+                "price": "278",
+                "description": "A classic hardcover notebook for professionals. This notebook is designed for durability and style.",
+                "id": "HC001",
+                "cover": "Hard",
+                "inner": "Ruled",
+                "numberOfPages": "180",
+                "paper": "85 GSM",
+                "size": "A5",
+                "otherfeatures": "Ribbon bookmark, Elastic band",
+                "coverDesigns": "Minimal",
+                "image": "https://m.media-amazon.com/images/I/61tc827kWJL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Oxford 669",
+                "price": "281",
+                "description": "A premium version of the Oxford Notebook. This notebook is designed for durability and style.",
+                "id": "HC002",
+                "cover": "Hard",
+                "inner": "Ruled + Dotted",
+                "numberOfPages": "200",
+                "paper": "90 GSM",
+                "size": "B5",
+                "otherfeatures": "Pen loop, Numbered pages",
+                "coverDesigns": "Floral",
+                "image": "https://m.media-amazon.com/images/I/61A1pMYmgPL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Rustic Scripts": [
+            {
+                "dairyName": "Oxford 481",
+                "price": "243",
+                "description": "A classic hardcover notebook for professionals. This notebook is designed for durability and style.",
+                "id": "HC001",
+                "cover": "Hard",
+                "inner": "Ruled",
+                "numberOfPages": "180",
+                "paper": "85 GSM",
+                "size": "A5",
+                "otherfeatures": "Ribbon bookmark, Elastic band",
+                "coverDesigns": "Geometric",
+                "image": "https://m.media-amazon.com/images/I/71ompSnxeIL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Oxford 229",
+                "price": "342",
+                "description": "A premium version of the Oxford Notebook. This notebook is designed for durability and style.",
+                "id": "HC002",
+                "cover": "Hard",
+                "inner": "Ruled + Dotted",
+                "numberOfPages": "200",
+                "paper": "90 GSM",
+                "size": "B5",
+                "otherfeatures": "Pen loop, Numbered pages",
+                "coverDesigns": "Abstract",
+                "image": "https://m.media-amazon.com/images/I/71AIxY4KJxL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Rustic Vintage": [
+            {
+                "dairyName": "Oxford 194",
+                "price": "277",
+                "description": "A classic hardcover notebook for professionals. This notebook is designed for durability and style.",
+                "id": "HC001",
+                "cover": "Hard",
+                "inner": "Ruled",
+                "numberOfPages": "180",
+                "paper": "85 GSM",
+                "size": "A5",
+                "otherfeatures": "Ribbon bookmark, Elastic band",
+                "coverDesigns": "Vintage",
+                "image": "https://m.media-amazon.com/images/I/81yrXqHiA-L._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Oxford 532",
+                "price": "272",
+                "description": "A premium version of the Oxford Notebook. This notebook is designed for durability and style.",
+                "id": "HC002",
+                "cover": "Hard",
+                "inner": "Ruled + Dotted",
+                "numberOfPages": "200",
+                "paper": "90 GSM",
+                "size": "B5",
+                "otherfeatures": "Pen loop, Numbered pages",
+                "coverDesigns": "Modern",
+                "image": "https://m.media-amazon.com/images/I/71f6UuUyYkL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Premium Q bound": [
+            {
+                "dairyName": "Oxford 732",
+                "price": "248",
+                "description": "A classic hardcover notebook for professionals. This notebook is designed for durability and style.",
+                "id": "HC001",
+                "cover": "Hard",
+                "inner": "Ruled",
+                "numberOfPages": "180",
+                "paper": "85 GSM",
+                "size": "A5",
+                "otherfeatures": "Ribbon bookmark, Elastic band",
+                "coverDesigns": "Modern",
+                "image": "https://m.media-amazon.com/images/I/81kCg-1vczL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Oxford 130",
+                "price": "319",
+                "description": "A premium version of the Oxford Notebook. This notebook is designed for durability and style.",
+                "id": "HC002",
+                "cover": "Hard",
+                "inner": "Ruled + Dotted",
+                "numberOfPages": "200",
+                "paper": "90 GSM",
+                "size": "B5",
+                "otherfeatures": "Pen loop, Numbered pages",
+                "coverDesigns": "Floral",
+                "image": "https://m.media-amazon.com/images/I/71y2P3iI5jL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ]
+    },
+    "SOFT COVER": {
+        "Layflat Notebook": [
+            {
+                "dairyName": "Layflat 334",
+                "price": "191",
+                "description": "A soft cover notebook with a layflat design. This notebook is designed for durability and style.",
+                "id": "SC001",
+                "cover": "Soft",
+                "inner": "Ruled",
+                "numberOfPages": "160",
+                "paper": "75 GSM",
+                "size": "A5",
+                "otherfeatures": "Layflat binding, Flexible cover",
+                "coverDesigns": "Modern",
+                "image": "https://m.media-amazon.com/images/I/716Sv-TKlrL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Layflat 188",
+                "price": "239",
+                "description": "A stylish layflat notebook for everyday use. This notebook is designed for durability and style.",
+                "id": "SC002",
+                "cover": "Soft",
+                "inner": "Ruled",
+                "numberOfPages": "180",
+                "paper": "80 GSM",
+                "size": "B5",
+                "otherfeatures": "Elastic closure, Perforated pages",
+                "coverDesigns": "Geometric",
+                "image": "https://m.media-amazon.com/images/I/61RONy+2c6L._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Saddle Stitched": [
+            {
+                "dairyName": "Layflat 193",
+                "price": "209",
+                "description": "A soft cover notebook with a layflat design. This notebook is designed for durability and style.",
+                "id": "SC001",
+                "cover": "Soft",
+                "inner": "Ruled",
+                "numberOfPages": "160",
+                "paper": "75 GSM",
+                "size": "A5",
+                "otherfeatures": "Layflat binding, Flexible cover",
+                "coverDesigns": "Vintage",
+                "image": "https://m.media-amazon.com/images/I/71h2lGvw4jL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Layflat 753",
+                "price": "251",
+                "description": "A stylish layflat notebook for everyday use. This notebook is designed for durability and style.",
+                "id": "SC002",
+                "cover": "Soft",
+                "inner": "Ruled",
+                "numberOfPages": "180",
+                "paper": "80 GSM",
+                "size": "B5",
+                "otherfeatures": "Elastic closure, Perforated pages",
+                "coverDesigns": "Geometric",
+                "image": "https://m.media-amazon.com/images/I/61A1pMYmgPL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Rustic Pin Notebook": [
+            {
+                "dairyName": "Layflat 451",
+                "price": "216",
+                "description": "A soft cover notebook with a layflat design. This notebook is designed for durability and style.",
+                "id": "SC001",
+                "cover": "Soft",
+                "inner": "Ruled",
+                "numberOfPages": "160",
+                "paper": "75 GSM",
+                "size": "A5",
+                "otherfeatures": "Layflat binding, Flexible cover",
+                "coverDesigns": "Abstract",
+                "image": "https://m.media-amazon.com/images/I/416lAX77EXL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Layflat 330",
+                "price": "232",
+                "description": "A stylish layflat notebook for everyday use. This notebook is designed for durability and style.",
+                "id": "SC002",
+                "cover": "Soft",
+                "inner": "Ruled",
+                "numberOfPages": "180",
+                "paper": "80 GSM",
+                "size": "B5",
+                "otherfeatures": "Elastic closure, Perforated pages",
+                "coverDesigns": "Vintage",
+                "image": "https://m.media-amazon.com/images/I/61wibB4fCML._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Neon Notebook": [
+            {
+                "dairyName": "Layflat 918",
+                "price": "234",
+                "description": "A soft cover notebook with a layflat design. This notebook is designed for durability and style.",
+                "id": "SC001",
+                "cover": "Soft",
+                "inner": "Ruled",
+                "numberOfPages": "160",
+                "paper": "75 GSM",
+                "size": "A5",
+                "otherfeatures": "Layflat binding, Flexible cover",
+                "coverDesigns": "Floral",
+                "image": "https://m.media-amazon.com/images/I/71uftta9x9L._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Layflat 476",
+                "price": "222",
+                "description": "A stylish layflat notebook for everyday use. This notebook is designed for durability and style.",
+                "id": "SC002",
+                "cover": "Soft",
+                "inner": "Ruled",
+                "numberOfPages": "180",
+                "paper": "80 GSM",
+                "size": "B5",
+                "otherfeatures": "Elastic closure, Perforated pages",
+                "coverDesigns": "Vintage",
+                "image": "https://m.media-amazon.com/images/I/61DzeP6IOwL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Corduroy Notebook": [
+            {
+                "dairyName": "Layflat 614",
+                "price": "235",
+                "description": "A soft cover notebook with a layflat design. This notebook is designed for durability and style.",
+                "id": "SC001",
+                "cover": "Soft",
+                "inner": "Ruled",
+                "numberOfPages": "160",
+                "paper": "75 GSM",
+                "size": "A5",
+                "otherfeatures": "Layflat binding, Flexible cover",
+                "coverDesigns": "Geometric",
+                "image": "https://m.media-amazon.com/images/I/71xcSwjYioL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Layflat 839",
+                "price": "207",
+                "description": "A stylish layflat notebook for everyday use. This notebook is designed for durability and style.",
+                "id": "SC002",
+                "cover": "Soft",
+                "inner": "Ruled",
+                "numberOfPages": "180",
+                "paper": "80 GSM",
+                "size": "B5",
+                "otherfeatures": "Elastic closure, Perforated pages",
+                "coverDesigns": "Modern",
+                "image": "https://m.media-amazon.com/images/I/713hB1yv4ZL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ]
+    },
+    "HANDY": {
+        "Animal": [
+            {
+                "dairyName": "Pocket 440",
+                "price": "136",
+                "description": "A compact notebook for quick notes. This notebook is designed for durability and style.",
+                "id": "HANDY001",
+                "cover": "Soft",
+                "inner": "Ruled + Grid + Blank",
+                "numberOfPages": "100",
+                "paper": "70 GSM",
+                "size": "Pocket",
+                "otherfeatures": "Easy to carry, Tearable pages",
+                "coverDesigns": "Modern",
+                "image": "https://m.media-amazon.com/images/I/81pniXVkq5L._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Travel 561",
+                "price": "188",
+                "description": "Ideal for travelers and note-takers. This notebook is designed for durability and style.",
+                "id": "HANDY002",
+                "cover": "Soft",
+                "inner": "Dotted + Ruled + Blank",
+                "numberOfPages": "120",
+                "paper": "75 GSM",
+                "size": "Mini",
+                "otherfeatures": "Water-resistant cover, Lightweight",
+                "coverDesigns": "Floral",
+                "image": "https://m.media-amazon.com/images/I/81qV0g82t7L._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Floral": [
+            {
+                "dairyName": "Pocket 128",
+                "price": "140",
+                "description": "A compact notebook for quick notes. This notebook is designed for durability and style.",
+                "id": "HANDY001",
+                "cover": "Soft",
+                "inner": "Ruled + Grid + Blank",
+                "numberOfPages": "100",
+                "paper": "70 GSM",
+                "size": "Pocket",
+                "otherfeatures": "Easy to carry, Tearable pages",
+                "coverDesigns": "Geometric",
+                "image": "https://m.media-amazon.com/images/I/81lnDgso4mL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Travel 560",
+                "price": "170",
+                "description": "Ideal for travelers and note-takers. This notebook is designed for durability and style.",
+                "id": "HANDY002",
+                "cover": "Soft",
+                "inner": "Dotted + Ruled + Blank",
+                "numberOfPages": "120",
+                "paper": "75 GSM",
+                "size": "Mini",
+                "otherfeatures": "Water-resistant cover, Lightweight",
+                "coverDesigns": "Abstract",
+                "image": "https://m.media-amazon.com/images/I/81T-ZfjpJpL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "Rustic Spiral Notebook": [
+            {
+                "dairyName": "Pocket 277",
+                "price": "140",
+                "description": "A compact notebook for quick notes. This notebook is designed for durability and style.",
+                "id": "HANDY001",
+                "cover": "Soft",
+                "inner": "Ruled + Grid + Blank",
+                "numberOfPages": "100",
+                "paper": "70 GSM",
+                "size": "Pocket",
+                "otherfeatures": "Easy to carry, Tearable pages",
+                "coverDesigns": "Abstract",
+                "image": "https://m.media-amazon.com/images/I/81sMxh-KLjL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Travel 924",
+                "price": "176",
+                "description": "Ideal for travelers and note-takers. This notebook is designed for durability and style.",
+                "id": "HANDY002",
+                "cover": "Soft",
+                "inner": "Dotted + Ruled + Blank",
+                "numberOfPages": "120",
+                "paper": "75 GSM",
+                "size": "Mini",
+                "otherfeatures": "Water-resistant cover, Lightweight",
+                "coverDesigns": "Abstract",
+                "image": "https://m.media-amazon.com/images/I/81BObvE1TjL._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ],
+        "3 in 1 Mini Notebook": [
+            {
+                "dairyName": "Pocket 651",
+                "price": "149",
+                "description": "A compact notebook for quick notes. This notebook is designed for durability and style.",
+                "id": "HANDY001",
+                "cover": "Soft",
+                "inner": "Ruled + Grid + Blank",
+                "numberOfPages": "100",
+                "paper": "70 GSM",
+                "size": "Pocket",
+                "otherfeatures": "Easy to carry, Tearable pages",
+                "coverDesigns": "Geometric",
+                "image": "https://m.media-amazon.com/images/I/815X4xrB2BL._AC_UL480_FMwebp_QL65_.jpg"
+            },
+            {
+                "dairyName": "Travel 477",
+                "price": "181",
+                "description": "Ideal for travelers and note-takers. This notebook is designed for durability and style.",
+                "id": "HANDY002",
+                "cover": "Soft",
+                "inner": "Dotted + Ruled + Blank",
+                "numberOfPages": "120",
+                "paper": "75 GSM",
+                "size": "Mini",
+                "otherfeatures": "Water-resistant cover, Lightweight",
+                "coverDesigns": "Geometric",
+                "image": "https://m.media-amazon.com/images/I/71Fvl3t6R1L._AC_UL480_FMwebp_QL65_.jpg"
+            }
+        ]
+    }
+}
