@@ -19,7 +19,7 @@ function Filter({ data = [], onFilter }) {
   }, [query, data, onFilter]);
 
   return (
-    <div className="my-4 mx-[132px]">
+    <div className="my-4 mx-14 sm:mx-[132px]">
       <input
         type="text"
         value={query}
