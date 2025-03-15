@@ -21,6 +21,7 @@ import SizeChart from "./components/SizeChart/SizeChart";
 import TermCondition from "./components/TermCondition/TermCondition";
 import TrackOrder from "./components/TrackOrder/TrackOrder";
 import NoFound from "./components/NoFound/NoFound";
+import Buy from "./componentsChild/Buy/Buy";
 
 function App() {
   return (
@@ -40,11 +41,12 @@ function App() {
         <Route path="/privacypolicy" element={<PrivacyPolicy />} />
         <Route path="/returnrefund" element={<ReturnRefund />} />
         <Route path="/shop" element={<Shop />} />
-        <Route path="/shoppingpolicy" element={<ShoppingPolicy />} />
+        <Route path="/shippingpolicy" element={<ShoppingPolicy />} />
         <Route path="/sizechart" element={<SizeChart />} />
         <Route path="/termcondition" element={<TermCondition />} />
         <Route path="/trackorder" element={<TrackOrder />} />
         <Route path="*" element={<NoFound/>} />
+        <Route path="/buy" element={<Buy/>} />
       </Routes>
       <Footer />
     </>

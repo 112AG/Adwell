@@ -29,11 +29,11 @@ function Card({ diary }) {
             </span>
           )}
         </p>
-        <p className="text-gray-900 font-semibold">Price: ${diary.price}</p>
+        <p className="text-gray-900 font-semibold">Price: Rs {diary.price}</p>
         <p className="text-gray-600 text-xs">Size: {diary.size}</p>
         <div className="flex border-2 rounded-full overflow-hidden w-[124px]  justify-between absolute bottom-2 right-0">
-          <Link className="bg-red-500 hover:bg-red-600 text-center w-1/2 text-white font-semibold">Buy</Link>
-          <Link className="bg-blue-500 hover:bg-blue-600 text-center w-1/2 text-white font-semibold">Cart</Link>
+          <Link to='/buy' className="bg-red-500 hover:bg-red-600 text-center w-1/2 text-white font-semibold">Buy</Link>
+          <Link  to='/cart' className="bg-blue-500 hover:bg-blue-600 text-center w-1/2 text-white font-semibold">Cart</Link>
         </div>
       </div>
     </div>
