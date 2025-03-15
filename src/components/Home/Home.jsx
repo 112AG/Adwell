@@ -42,9 +42,17 @@ function Home() {
     setCurrentIndex((prevIndex) => (prevIndex < data.length - 1 ? prevIndex + 1 : 0));
   }
 
-  if (data.length > 0) {
-    console.log(data[0]);
-  }
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setCurrentIndex((prevIndex) => {
+        const nextIndex = prevIndex < data.length - 1 ? prevIndex + 1 : 0;
+        return nextIndex;
+      });
+    }, 5000);
+
+    return () => clearInterval(interval);
+  }, [data.length]);
+
 
   return (
     <div className="h-full w-full overflow-x-hidden">

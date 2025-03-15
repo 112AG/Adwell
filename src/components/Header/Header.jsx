@@ -153,7 +153,7 @@ function Header() {
 
       {/* Mobile Menu Sidebar */}
       <div
-        className={`fixed right-0 top-0 h-full w-[40vw] bg-gray-200 shadow-lg z-20 transform transition-transform duration-300 ease-in-out ${
+        className={`fixed right-0 top-0 h-full w-[100vw] bg-gray-200 shadow-lg z-20 transform transition-transform duration-600 ease-in-out ${
           menu ? "translate-x-0" : "translate-x-full"
         }`}
       >
@@ -161,7 +161,7 @@ function Header() {
           onClick={handleMenu}
           className="ri-close-large-fill cursor-pointer text-black absolute right-4 top-4 font-bold text-2xl"
         ></i>
-        <ul className="py-16 px-4 flex flex-col gap-6 whitespace-nowrap">
+        <ul className="py-16 px-4 flex flex-col items-center gap-6 whitespace-nowrap">
           <li className="transform transition-transform duration-300 hover:translate-x-2">
             <NavLink
               to="/"

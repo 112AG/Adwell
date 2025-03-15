@@ -36,7 +36,7 @@ function Personalize() {
         </p>
 
 
-        <div className="flex gap-6 py-8 justify-between">
+        <div className="flex gap-6 py-8 justify-between md:flex-row flex-col">
           <div className="max-w-[324px] border border-red-800 py-4 px-3 overflow-hidden rounded-2xl shadow-lg hover:shadow-2xl transition transform hover:scale-104 bg-gradient-to-br from-red-300 to-white ">
           <div className="bg-red-600 text-white font-semibold w-[120px] text-center rotate-45 absolute -right-8 top-4">Popular</div>
             <h1 className="font-bold text-[24px] leading-snug text-center text-red-900 drop-shadow-md">
