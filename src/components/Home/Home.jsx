@@ -89,7 +89,7 @@ function Home() {
             src="https://rukminim2.flixcart.com/image/612/612/xif0q/diary-notebook/q/1/w/di-metallock-d13-makenstylecollection-original-imah6ymfkjc2zchs.jpeg?q=70"
             alt="image"
           />
-          <h1 className="text-center text-xl font-semibold text-red-950">
+          <h1 className="text-center text-[16px] md:text-xl font-semibold text-red-950">
             Writing Essentials
           </h1>
         </Link>
@@ -102,7 +102,7 @@ function Home() {
             src="https://rukminim2.flixcart.com/image/612/612/xif0q/diary-notebook/f/o/a/buddha-print-100-recycled-handmade-paper-diary-with-lock-tvj-original-imagy5xmawybzcyy.jpeg?q=70"
             alt="image"
           />
-          <h1 className="text-center text-xl font-semibold text-red-950">
+          <h1 className="text-center text-[16px] md:text-xl font-semibold text-red-950">
             Business Supplies
           </h1>
         </Link>
@@ -115,7 +115,7 @@ function Home() {
             src="https://rukminim2.flixcart.com/image/612/612/xif0q/diary-notebook/a/1/z/cc-t111-cc-t111-craft-club-original-imahyujhvag3hgr6.jpeg?q=70"
             alt="image"
           />
-          <h1 className="text-center text-xl font-semibold text-red-950">
+          <h1 className="text-center text-[16px] md:text-xl font-semibold text-red-950">
             Creative Stationaries
           </h1>
         </Link>
