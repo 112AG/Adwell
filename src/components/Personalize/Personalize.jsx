@@ -1,9 +1,14 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import pOne from '../../assets/pOne.jpg'
+import pTwo from '../../assets/pTwo.jpg'
+import pThree from '../../assets/pThree.jpg'
+import pFour from '../../assets/pFour.jpg'
+import pFive from '../../assets/pFive.jpg'
 
 function Personalize() {
   return (
-    <div className="w-full h-full flex flex-col justify-center ">
+    <div className="w-full h-full flex flex-col justify-center">
       <div className="max-w-3xl mx-auto px-4">
         <h1 className="text-3xl pb-6 py-4 font-bold text-gray-800 text-center">
           Discount Offers
@@ -35,10 +40,11 @@ function Personalize() {
           cherished for years to come.
         </p>
 
-
         <div className="flex gap-6 py-8 justify-between md:flex-row flex-col">
           <div className="max-w-[324px] border border-red-800 py-4 px-3 overflow-hidden rounded-2xl shadow-lg hover:shadow-2xl transition transform hover:scale-104 bg-gradient-to-br from-red-300 to-white ">
-          <div className="bg-red-600 text-white font-semibold w-[120px] text-center rotate-45 absolute -right-8 top-4">Popular</div>
+            <div className="bg-red-600 text-white font-semibold w-[120px] text-center rotate-45 absolute -right-8 top-4">
+              Popular
+            </div>
             <h1 className="font-bold text-[24px] leading-snug text-center text-red-900 drop-shadow-md">
               Personalization on Readymade Products
             </h1>
@@ -76,21 +82,23 @@ function Personalize() {
           </div>
 
           <div className="relative max-w-[324px] overflow-hidden border border-red-800 py-4 px-3 rounded-2xl shadow-lg hover:shadow-2xl transition transform hover:scale-104 bg-gradient-to-br from-red-300 to-white ">
-            <div className="bg-red-600 text-white font-semibold w-[120px] text-center rotate-45 absolute -right-8 top-4">Popular</div>
+            <div className="bg-red-600 text-white font-semibold w-[120px] text-center rotate-45 absolute -right-8 top-4">
+              Popular
+            </div>
             <h1 className="font-bold text-[24px] leading-snug text-center text-red-900 drop-shadow-md">
-            Complete Product Customization
+              Complete Product Customization
             </h1>
             <p className="text-center text-[16px] text-gray-700 pb-2 italic">
-            minimum order quantities may vary based on specifications
+              minimum order quantities may vary based on specifications
             </p>
             <div className="h-[2px] w-full bg-red-900 mb-3"></div>
             <div className="flex flex-col items-center justify-center text-gray-800">
-            <p className="mt-4 text-center text-[15px] text-gray-700">
-              Our range of customization options includes name and logo foiling,
-              embossing, multicolor printing of the front cover, and
-              personalized page inserts. We also offer premium packaging options
-              to add a touch of luxury to your gift.
-            </p>
+              <p className="mt-4 text-center text-[15px] text-gray-700">
+                Our range of customization options includes name and logo
+                foiling, embossing, multicolor printing of the front cover, and
+                personalized page inserts. We also offer premium packaging
+                options to add a touch of luxury to your gift.
+              </p>
               <Link className="py-2 px-5 mt-3 bg-red-700 text-white rounded-lg hover:bg-red-800 shadow-md transition-all duration-300">
                 GET A QUOTE
               </Link>
@@ -99,9 +107,101 @@ function Personalize() {
               Our range of customization options includes name and logo foiling,
               embossing, multicolor printing of the front cover, and
               personalized page inserts. We also offer premium packaging options
-              to add a touch of luxury to your gift. We also offer premium packaging options
-              to add a touch of luxury to your gift.
+              to add a touch of luxury to your gift. We also offer premium
+              packaging options to add a touch of luxury to your gift.
             </p>
+          </div>
+        </div>
+      </div>
+      <div className="w-full bg-gray-100 sm:px-6 px-4 flex justify-center">
+        <div>
+          <h1 className="text-center text-red-900 text-2xl py-2">
+            Personalization On Readymade Products
+          </h1>
+
+          <div className=" max-w-3xl mx-auto flex items-center">
+            <p className="text-[16px] font-medium">
+              <span className="text-red-800 text-xl">Logo Foiling</span>
+              <br /><br />
+              The logo of your organization can be Foiled or Debossed on the
+              front cover of our products. Additionally, we also have
+              high-quality multi-colour printing on the front and back cover
+              with a premium finish.
+              <br />
+              <br />
+              Your gift will be beautifully designed by our in-house experts,
+              customised with Gold or Silver foil. You can also choose the foil
+              color of your choice.
+            </p>
+            <img className="w-[30%]" src={pOne} alt="img" />
+          </div>
+          
+          <div className=" max-w-3xl mx-auto flex items-center">
+            <p className="text-[16px] font-medium">
+              <span className="text-red-800 text-xl">Logo Foiling</span>
+              <br /><br />
+              The logo of your organization can be Foiled or Debossed on the
+              front cover of our products. Additionally, we also have
+              high-quality multi-colour printing on the front and back cover
+              with a premium finish.
+              <br />
+              <br />
+              Your gift will be beautifully designed by our in-house experts,
+              customised with Gold or Silver foil. You can also choose the foil
+              color of your choice.
+            </p>
+            <img className="w-[40%]" src={pTwo} alt="img" />
+          </div>
+          
+          <div className=" max-w-3xl mx-auto flex items-center">
+            <p className="text-[16px] font-medium">
+              <span className="text-red-800 text-xl">Logo Foiling</span>
+              <br /><br />
+              The logo of your organization can be Foiled or Debossed on the
+              front cover of our products. Additionally, we also have
+              high-quality multi-colour printing on the front and back cover
+              with a premium finish.
+              <br />
+              <br />
+              Your gift will be beautifully designed by our in-house experts,
+              customised with Gold or Silver foil. You can also choose the foil
+              color of your choice.
+            </p>
+            <img className="w-[40%]" src={pThree} alt="img" />
+          </div>
+          
+          <div className=" max-w-3xl mx-auto flex items-center">
+            <p className="text-[16px] font-medium">
+              <span className="text-red-800 text-xl">Logo Foiling</span>
+              <br /><br />
+              The logo of your organization can be Foiled or Debossed on the
+              front cover of our products. Additionally, we also have
+              high-quality multi-colour printing on the front and back cover
+              with a premium finish.
+              <br />
+              <br />
+              Your gift will be beautifully designed by our in-house experts,
+              customised with Gold or Silver foil. You can also choose the foil
+              color of your choice.
+            </p>
+            <img className="w-[40%]" src={pFour} alt="img" />
+          </div>
+          
+          <div className=" max-w-3xl mx-auto flex items-center">
+            <p className="text-[16px] font-medium">
+              <span className="text-red-800 text-xl">Logo Foiling</span>
+              <br /><br />
+              The logo of your organization can be Foiled or Debossed on the
+              front cover of our products. Additionally, we also have
+              high-quality multi-colour printing on the front and back cover
+              with a premium finish.
+              <br />
+              <br />
+              Your gift will be beautifully designed by our in-house experts,
+              customised with Gold or Silver foil. You can also choose the foil
+              color of your choice.
+            </p>
+            <img className="w-[40%]" src={pFive} alt="img" />
           </div>
         </div>
       </div>
