@@ -18,11 +18,11 @@ function Contact() {
   {/* Contact Info */}
   <div className="mt-4 flex items-center justify-center gap-4 text-gray-700 text-lg">
     <p className="flex items-center gap-2">
-      <i className="ri-mail-fill text-blue-600"></i> adwell@gmail.com
+      <i className="ri-mail-fill text-blue-600"></i> corpcom@adwelldiaries.com
     </p>
     <span className="text-gray-400">|</span>
     <p className="flex items-center gap-2">
-      <i className="ri-phone-fill text-green-600"></i> +91 0987654321
+      <i className="ri-phone-fill text-green-600"></i> +91 7603062672
     </p>
   </div>
 </div>

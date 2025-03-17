@@ -15,9 +15,9 @@ const Footer = () => {
             <img src={Logo} alt="Adwell" className="w-24 h-auto" />
             <h1 className="text-2xl font-bold mt-3">Adwell Paper Product</h1>
             <address className="text-sm text-gray-600 mt-2 space-y-1 not-italic">
-              <p>Pragati Maidan, New Delhi, India</p>
-              <p>📞 +91 0987654321</p>
-              <p>📧 adwell@gmail.com</p>
+              <p>P-12, CIT Rd, Near Haldirams, (Behind Sindharam Sanwarmal) Kankurgachi, Kolkata - 700054</p>
+              <p>📞 +91 7603062672</p>
+              <p>📧 corpcom@adwelldiaries.com</p>
               <p>🕘 Mon-Sat 9:00am - 5:30pm</p>
             </address>
           </div>

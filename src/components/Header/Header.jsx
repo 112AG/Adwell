@@ -2,10 +2,15 @@ import React, { useState } from "react";
 import Logo from "../../assets/ADWELL.png";
 import { NavLink } from "react-router-dom";
 import "./Header.css";
+import { useSelector } from "react-redux";
 
 function Header() {
   const [search, setSearch] = useState(false);
   const [menu, setMenu] = useState(false);
+
+  // for showing number of added products to the cart.
+  const cart = useSelector((state) => state.cart);
+
 
   function handleMenu() {
     setMenu((prevVal) => !prevVal);
@@ -105,12 +110,20 @@ function Header() {
           to="/cart"
           className={({ isActive }) => (isActive ? "active-cart" : "cart")}
         >
-          <i className="ri-shopping-cart-2-line"></i>
+          <i className="ri-shopping-cart-2-line"></i> 
+          <div className="absolute top-3 -right-3 opacity-70 bg-white h-[20px] w-[20px] rounded-full text-[14px]  text-center text-red-500 font-semibold">{cart.length}</div>
         </NavLink>
       </div>
 
       {/* Mobile View */}
       <div className="flex sm:hidden gap-4 items-center">
+      <NavLink
+          to="/cart"
+          className={({ isActive }) => (isActive ? "active-cart" : "cart")}
+        >
+          <i className="ri-shopping-cart-2-line cursor-pointer text-2xl font-semibold hover:text-red-600"></i> 
+          <div className="absolute top-3 -right-1 rounded-full text-[16px]  text-center text-red-500 font-semibold">{cart.length}</div>
+        </NavLink>
         <i
           onClick={handleSearch}
           className="ri-search-line cursor-pointer text-2xl font-semibold hover:text-red-600"

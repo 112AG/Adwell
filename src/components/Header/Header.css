@@ -43,6 +43,11 @@
 
 .active-cart{
     color: red;
+    position: relative;
+}
+
+.cart{
+    position: relative;
 }
 
 .search {
