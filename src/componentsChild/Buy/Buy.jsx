@@ -69,9 +69,7 @@ function Buy() {
             <input
               type="text"
               name="price"
-              value={cart.map((cart) => (
-                cart.price
-              ))}
+              value={cart.reduce((acc, item) => acc + Number(item.price), 0)}
               className="w-full border p-2 rounded focus:ring focus:ring-blue-300"
               placeholder="Unique Code of product want you buy (type carefully)"
               required
